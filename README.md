@@ -1,6 +1,6 @@
 # Simple Website Using Github Pages
 Make a simple HTML website and publish it using Github Pages.  
-View example: https://Thepassionatetechie.github.io/
+View example: https://thepassionatetechie.github.io/
 
 ## Setup
 - Create a Github account (if you don't have one yet)
